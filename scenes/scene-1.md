@@ -3,6 +3,7 @@
  - Image: http://res.cloudinary.com/triggerz/image/upload/v1513594352/Billede1_ls6myi.png
 
 # Description
+
 You are an new Associate manager and have since your started several months ago worked hard  - and most days also long hours - to succeed. An SPS (systematic problem solving) has been conducted on the production line at one of the stations in cell 4. It's about a problem that has occured many times and force the line to stop each time.The technicians are fairly sure they have found the solution. They need to stop the line the implement the solution. Your production line is barely reaching its production target and management is pushing for as much production as possible. And luckily the line is running without any problems at the moment. Furthermore, over recent weeks your Department Manager has been asking you to solve more issues on your own and not consult her about smaller issues. So, how do you solve this production line issue?
 
 # Choice
