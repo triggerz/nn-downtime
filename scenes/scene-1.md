@@ -1,6 +1,6 @@
 # Config
  - Title: Downtime - again?! 
- - Image: http://res.cloudinary.com/triggerz/image/upload/v1513594352/Billede1_ls6myi.png
+ - Image: http://res.cloudinary.com/dertn65o7/image/upload/v1521489886/loic-djim-69263-unsplash.jpg
 
 # Description
 
